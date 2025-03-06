@@ -3,6 +3,7 @@ EF Core Global Query Filters: A Complete Guide
 Read more at :
 
 EF Core Global Query Filters: A Complete Guide
+
 https://coderlegion.com/1323/ef-core-global-query-filters-a-complete-guide
 
 EF Core: Lazy Loading, Eager Loading, and Loading Data on Demand
