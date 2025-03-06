@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\git\\EfCoreGlobalFilter\\",
+  "WorkspaceRootPath": "C:\\git\\EfCoreAndGlobalFilter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreglobalfilter\\efcoreglobalfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreandglobalfilter\\efcoreglobalfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreglobalfilter\\efcoreglobalfilter\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreglobalfilter\\efcoreglobalfilter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreandglobalfilter\\efcoreglobalfilter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreglobalfilter\\efcoreglobalfilter\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreandglobalfilter\\efcoreglobalfilter\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreandglobalfilter\\efcoreglobalfilter\\efcoreglobalfilter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\efcoreglobalfilter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|c:\\git\\efcoreandglobalfilter\\efcoreglobalfilter\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1943DF80-6398-40CC-9221-6B1725EF39AC}|EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj|solutionrelative:efcoreglobalfilter\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -43,51 +47,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\BaseEntity.cs",
-              "ToolTip": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\BaseEntity.cs",
-              "RelativeToolTip": "EfCoreGlobalFilter\\BaseEntity.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T09:08:28.397Z",
-              "EditorCaption": ""
+              "Title": "EfCoreGlobalFilter.csproj",
+              "DocumentMoniker": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj",
+              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj",
+              "ToolTip": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj",
+              "RelativeToolTip": "EfCoreGlobalFilter\\EfCoreGlobalFilter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-02T10:46:29.147Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\BaseEntity.cs",
+              "ToolTip": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\BaseEntity.cs",
+              "RelativeToolTip": "EfCoreGlobalFilter\\BaseEntity.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T09:08:28.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\Product.cs",
+              "DocumentMoniker": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\Product.cs",
               "RelativeDocumentMoniker": "EfCoreGlobalFilter\\Product.cs",
-              "ToolTip": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\Product.cs",
+              "ToolTip": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\Product.cs",
               "RelativeToolTip": "EfCoreGlobalFilter\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T09:08:28.348Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\AppDbContext.cs",
-              "ToolTip": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\AppDbContext.cs",
-              "RelativeToolTip": "EfCoreGlobalFilter\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\Program.cs",
+              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\Program.cs",
+              "ToolTip": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\Program.cs",
+              "RelativeToolTip": "EfCoreGlobalFilter\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T09:05:23.166Z",
+              "WhenOpened": "2025-03-02T09:03:16.256Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\Program.cs",
-              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\Program.cs",
-              "ToolTip": "C:\\git\\EfCoreGlobalFilter\\EfCoreGlobalFilter\\Program.cs",
-              "RelativeToolTip": "EfCoreGlobalFilter\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowDgAAAA3AAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EfCoreGlobalFilter\\AppDbContext.cs",
+              "ToolTip": "C:\\git\\EfCoreAndGlobalFilter\\EfCoreGlobalFilter\\AppDbContext.cs",
+              "RelativeToolTip": "EfCoreGlobalFilter\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T09:03:16.256Z",
+              "WhenOpened": "2025-03-02T09:05:23.166Z",
               "EditorCaption": ""
             }
           ]

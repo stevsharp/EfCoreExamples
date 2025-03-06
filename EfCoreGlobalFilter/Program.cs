@@ -30,7 +30,9 @@ class Program
 
         Console.WriteLine("\nPress any key to exit...");
     }
-
+    /// <summary>
+    /// 
+    /// </summary>
     static void DisplayProducts()
     {
         using var context = new AppDbContext();
