@@ -1,7 +1,8 @@
 EF Core Global Query Filters: A Complete Guide
 
-Read more at :
-https://coderlegion.com/1323/ef-core-global-query-filters-a-complete-guide
+EF Core Bulk Updates and Deletes: Performance vs Change Tracking : 
+
+https://coderlegion.com/1640/ef-core-bulk-updates-and-deletes-performance-vs-change-tracking
 
 ## Connect with Me
 
