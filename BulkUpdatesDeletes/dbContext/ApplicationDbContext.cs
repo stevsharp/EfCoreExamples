@@ -1,4 +1,5 @@
 ﻿
+using BulkUpdatesDeletes.Interceptor;
 using BulkUpdatesDeletes.Model;
 
 using Microsoft.EntityFrameworkCore;
@@ -13,5 +14,7 @@ public class ApplicationDbContext : DbContext
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
         optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=Project1Db;Trusted_Connection=True;MultipleActiveResultSets=true;");
+
+        optionsBuilder.AddInterceptors(new AuditInterceptor());
     }
 }
