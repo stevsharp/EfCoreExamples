@@ -12,6 +12,10 @@ EF Core: Lazy Loading, Eager Loading, and Loading Data on Demand
 
 https://coderlegion.com/1401/ef-core-lazy-loading-eager-loading-and-loading-data-on-demand
 
+EF Core Bulk Updates and Deletes: Performance vs Change Tracking : 
+
+https://coderlegion.com/1640/ef-core-bulk-updates-and-deletes-performance-vs-change-tracking
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
