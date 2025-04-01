@@ -16,6 +16,10 @@ EF Core Bulk Updates and Deletes: Performance vs Change Tracking :
 
 https://coderlegion.com/1640/ef-core-bulk-updates-and-deletes-performance-vs-change-tracking
 
+Optimistic vs. Pessimistic Concurrency in EF Core (with Table Hints) : 
+
+https://coderlegion.com/1720/optimistic-vs-pessimistic-concurrency-in-ef-core-with-table-hints
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
