@@ -20,6 +20,10 @@ Optimistic vs. Pessimistic Concurrency in EF Core (with Table Hints) :
 
 https://coderlegion.com/1720/optimistic-vs-pessimistic-concurrency-in-ef-core-with-table-hints
 
+Optimize EF Core Queries with AsSplitQuery() : 
+
+https://dev.to/stevsharp/optimize-ef-core-queries-with-assplitquery-20on/stats
+
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/spyros-ponaris-913a6937/)
